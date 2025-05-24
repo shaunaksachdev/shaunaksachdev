@@ -46,9 +46,8 @@ Figma, Canva, Adobe Express/Photoshop/XD
 ## 🎓 Education
 
 **Bachelor of Data Science**  
-Simon Fraser University, Jan 2023 – Apr 2027 (expected)  
-GPA: 3.17 (Fall 2024)  
-*Relevant Coursework:* Computing Science, R for Data Science, Discrete Math, Linear Algebra
+Simon Fraser University, Jan 2023 – Apr 2027 (expected)   
+*Relevant Coursework:* Data Structures and Algorithms, R for Data Science, Discrete Math, Linear Algebra
 
 ---
 
