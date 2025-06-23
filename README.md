@@ -1,6 +1,5 @@
-👋🏽 Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code—or a chess opening!
+Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code—or a chess opening!
 
----
 
 ## 💻 I Work With
 
@@ -32,13 +31,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
----
 
 ## 📬 Reach Out to Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shaunaksachdev)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/shaunaksachdev)  
 📫 Email: shaunak_sachdev@sfu.ca
-
----
-
