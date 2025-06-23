@@ -1,15 +1,11 @@
-Hello World! I'm Shaunak Sachdev 
-
-Welcome to my GitHub! I'm a passionate data science student who loves working with data, building machine learning models, and exploring cool tech projects. Let's connect and create something impactful!
 
 ---
 
-## 👨‍💻 About Me
+👋🏽 Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving.
 
-🎓 3rd-year Data Science Student at Simon Fraser University  
-📍 Based in Burnaby, BC  
-📊 Aspiring Machine Learning Engineer | Former Research Assistant  
-🎯 Passionate about data-driven storytelling and impactful tech
+💻 I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite.
+
+⚽️ Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code—or a chess opening!
 
 ---
 
@@ -53,4 +49,3 @@ Welcome to my GitHub! I'm a passionate data science student who loves working wi
 
 ---
 
-_“Let’s make data dance and models sing 🎵📊”_
