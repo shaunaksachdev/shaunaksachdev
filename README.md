@@ -1,7 +1,7 @@
-Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code—or a chess opening!
+Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code or a chess opening!
 
 
-## 💻 I Work With
+## I Work With: 
 
 **Languages & Tools**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -26,14 +26,13 @@ Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passio
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat-square)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
 
 
-## 📬 Reach Out to Me
+## Reach Out to Me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shaunaksachdev)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/shaunaksachdev)  
-📫 Email: shaunak_sachdev@sfu.ca
+Email: shaunak_sachdev@sfu.ca
