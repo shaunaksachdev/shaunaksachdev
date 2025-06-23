@@ -33,4 +33,5 @@ Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passio
 
 ## Reach Out to Me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shaunaksachdev)  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/shaunaksachdev)  Email: shaunak_sachdev@sfu.ca
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/shaunaksachdev)  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square)](https://github.com/shaunaksachdev)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:shaunak_sachdev@sfu.ca)
+
