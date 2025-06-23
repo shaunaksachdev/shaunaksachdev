@@ -1,4 +1,4 @@
-🌟 Hello World! I'm Shaunak Sachdev 🌟
+Hello World! I'm Shaunak Sachdev 
 
 Welcome to my GitHub! I'm a passionate data science student who loves working with data, building machine learning models, and exploring cool tech projects. Let's connect and create something impactful!
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate data science student who loves working wi
 
 ## 👨‍💻 About Me
 
-🎓 2nd-year Data Science Student at Simon Fraser University  
+🎓 3rd-year Data Science Student at Simon Fraser University  
 📍 Based in Burnaby, BC  
 📊 Aspiring Machine Learning Engineer | Former Research Assistant  
 🎯 Passionate about data-driven storytelling and impactful tech
@@ -42,30 +42,6 @@ Welcome to my GitHub! I'm a passionate data science student who loves working wi
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-
----
-
-## 🧠 Projects & Experience
-
-**🔬 Research Assistant @ SFU**  
-*Jan 2024 – Apr 2024*  
-- Created a movie database (Python, R) using APIs and web scraping.  
-- Analyzed YouTube engagement data to predict box office success.
-
-**🎯 Director of Marketing @ SFU Data Science Society**  
-*May 2023 – May 2025*  
-- Led social media campaigns and managed a team of coordinators.  
-- Increased event attendance through strategic design and targeting.
-
----
-
-## 📚 Education
-
-**Bachelor of Data Science**  
-Simon Fraser University  
-*Expected Graduation: Apr 2027*  
-Relevant Courses:  
-📘 Linear Algebra, Data Structures & Algorithms, R for Data Science, Discrete Math
 
 ---
 
