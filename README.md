@@ -1,4 +1,4 @@
-Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending tech with creativity using tools like Figma and Adobe Suite. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code or a chess opening!
+Hi! I’m Shaunak, a Data Science major at Simon Fraser University with a passion for Machine Learning and real-world problem solving. I work with Python, R, SQL, and love blending data and tech with creativity using tools like Tableau and Power BI. Off-screen, I’m into chess, soccer, and staying up to date with tech trends. Let’s connect over code or a chess opening!
 
 
 ## I Work With: 
